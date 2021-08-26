@@ -1,4 +1,4 @@
-## Hello there 👋️, I'm Mondly Marcellus 😊️
+## Hello there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Mondly Marcellus 😊️
 
 
 
@@ -11,29 +11,12 @@
 
 
 
- 
+- 👨‍💻 I’m currently working on various projects with serious upcoming goals , and Web Developer at [HaitiPay](https://haitipay.com/) as trainee
 
+
+
+- 📫 How to reach me ...
 
 
 [![Twitter Badge](https://img.shields.io/badge/@dev_marcellus-white?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/dev_marcellus)](https://twitter.com/dev_marcellus) [![Mail Badge](https://img.shields.io/badge/-@dev_marcellus-white?style=flat&labelColor=white&logo=instagram&logoColor=EA524C)](https://instagram.com/dev_marcellus) [![Mail Badge](https://img.shields.io/badge/-dev_marcellus-white?style=flat&labelColor=white&logo=gmail&logoColor=E34133)](mailto:mondly16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-dev_marcellus-white?style=flat&labelColor=white&logo=whatsapp&logoColor=00E676)](https://wa.me/50934391832)
 
- 
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @devmarcellus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-devmarcellus/devmarcellus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
