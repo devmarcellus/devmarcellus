@@ -2,7 +2,7 @@
 
 
 
- [![Years Badge](https://badges.pufler.dev/years/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)](https://badges.pufler.dev)  [![GitHub followers](https://img.shields.io/github/followers/devmarcellus?logoColor=6e5494&style=social)](https://github.com/devmarcellus)    [![Visits Badge](https://img.shields.io/github/watchers/devmarcellus/devmarcellus?label=Visits&logoColor=6e5494&style=social)](https://github.com/devmarcellus)    [![GitHub User's stars](https://img.shields.io/github/stars/devmarcellus?logoColor=6e5494&style=social)](https://github.com/devmarcellus) [![Repos Badge](https://badges.pufler.dev/repos/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)](https://github.com/devmarcellus)  [![Commits Badge](https://badges.pufler.dev/commits/monthly/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)]()
+ [![Years Badge](https://badges.pufler.dev/years/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)](https://badges.pufler.dev)  [![GitHub followers](https://img.shields.io/github/followers/devmarcellus?logoColor=6e5494&style=social)](https://github.com/devmarcellus)    [![Visits Badge](https://img.shields.io/github/watchers/devmarcellus/devmarcellus?label=Visits&logoColor=6e5494&style=social)](https://github.com/devmarcellus)    [![User's stars](https://img.shields.io/github/stars/devmarcellus?logoColor=6e5494&style=social)](https://github.com/devmarcellus) [![Repos Badge](https://badges.pufler.dev/repos/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)](https://github.com/devmarcellus)  [![Commits Badge](https://badges.pufler.dev/commits/monthly/devmarcellus??style=plastic&logo=github&logoColor=6e5494&style=social)]()
 
 
 
